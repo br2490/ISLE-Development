@@ -13,3 +13,6 @@
 [submodule "images/isle-imageservices"]
 	path = images/isle-imageservices
 	url = git@github.com:Islandora-Collaboration-Group/isle-imageservices.git
+[submodule "docs"]
+	path = docs
+	url = https://github.com/Islandora-Collaboration-Group/ISLE-Documentation
